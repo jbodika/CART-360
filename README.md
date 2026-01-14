@@ -1,2 +1,2 @@
-# CART360-Tangible-Media-and-Physical-Computing
+# CART360 Tangible Media & Physical Computing
 Coursework from CART 360 
